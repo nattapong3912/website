@@ -28,3 +28,5 @@ This template uses vanilla Mini World Plugin system, take an example from a "new
 	} 
 } 
 ```
+
+Take a look at the **Examples** section to see more item/mob snippets.
