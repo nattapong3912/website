@@ -3,6 +3,9 @@ layout: post
 title: MWCH Shop
 ---
 
-### Coming Soon
+<div class="alert alert-warning alert-dismissible" role="alert">
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <strong>Warning!</strong> The shop still in development, stay tuned.
+</div>
 
-> stay tuned at our <a href="http://discord.gg/q2tFztR">Discord Server</a>
+Coming soon.
