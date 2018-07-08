@@ -6,7 +6,7 @@ title: MWCH Shop
 <div class="alert alert-warning alert-dismissible" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <strong>Warning!</strong> The shop still in development, stay tuned.
-</div><br>
+</div><br><br>
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -129,3 +129,78 @@ title: MWCH Shop
     </div>
   </div>
 </div>
+
+## Item Packs
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Farming Pack
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        All you need to start making a farm.
+    <ul>
+    <li>64 Wheat Seeds x2</li>
+    <li>Iron Hoe and Iron Shovel x1</li>
+    <li>5 Water Buckets x1</li>
+   </ul>
+    <div class="btn-group" role="group" aria-label="...">
+  <button type="button" class="btn btn-default">Buy</button>
+  <p>Prize: 580 M Gold</p>
+    </div>
+   </div>
+   </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Dungeon Pack
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        All you need to go to a Dungeon.
+   <ul>
+    <li>64 Speed Shards x1</li>
+    <li>Diamond Sword x1</li>
+    <li>Full Iron Armor x1</li>
+   </ul>
+    <div class="btn-group" role="group" aria-label="...">
+  <button type="button" class="btn btn-default">Buy</button>
+  <p>Prize: 1800 M Gold</p>
+    </div>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Party Pack
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+        Make a Big Party in the Server with this Pack!
+   <ul>
+    <li>64 Fireworks x2</li>
+    <li>20 Ribbon Fireworks x1</li>
+    <li>64 Ballons x1</li>
+   </ul>
+    <div class="btn-group" role="group" aria-label="...">
+  <button type="button" class="btn btn-default">Buy</button>
+  <p>Prize: 3000 M Gold</p>
+    </div>
+      </div>
+    </div>
+  </div>
+</div>
+
