@@ -32,11 +32,12 @@ title: Server Status
         <ul>
           <li>Big Userbase</li>
           <li>Weekly Events</li>
+          <li>Staff Support</li>
           <li>and Many More!</li>
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
+        <button type="button" class="btn btn-default disabled" data-toggle="tooltip" data-placement="top" title="Offline">Join</button>
       </div>
     </div>
   </div>
@@ -57,15 +58,15 @@ title: Server Status
         <p>MWCH for VIP Users.</p>
         <p>Features:</p>
         <ul>
-          <li>Special VIP Access Only</li>
           <li>Daily Events</li>
           <li>0% Lag</li>
-          <li>Cross-saving between server</li>
+          <li>VIP Staff Support</li>
+          <li>Cross-saving between servers</li>
           <li>and Many More!</li>
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
+        <button type="button" class="btn btn-default disabled" data-toggle="tooltip" data-placement="top" title="Offline">Join</button>
       </div>
     </div>
   </div>
@@ -92,7 +93,7 @@ title: Server Status
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
+        <button type="button" class="btn btn-default disabled" data-toggle="tooltip" data-placement="top" title="Offline">Join</button>
       </div>
     </div>
   </div>
