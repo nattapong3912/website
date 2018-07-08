@@ -8,6 +8,10 @@ title: MWCH Shop
   <strong>Warning!</strong> The shop still in development, stay tuned.
 </div>
 
+
+
+
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -32,7 +36,14 @@ title: MWCH Shop
     <p>Get a cute Monkey Pet!</p>
   </div>
     </div>
-    ...
+    <div class="item">
+      <img src="..." alt="...">
+  <div class="carousel-caption">
+    <h3>Supporter</h3>
+    <p>Cross-saving between Servers!</p>
+  </div>
+    </div>
+    Ranks Showcase
   </div>
 
   <!-- Controls -->
