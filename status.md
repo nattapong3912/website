@@ -9,8 +9,8 @@ title: Server Status
 </div>
 
 <ul class="list-group">
-<li class="list-group-item"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>MWCH Servers</li>
-<li class="list-group-item"><h5>Server 1: Vanilla <span class="label label-danger">Offline</span></h5><span class="badge">O Playing</span></li>
-<li class="list-group-item"><h5>Server 2: Hardcore <span class="label label-danger">Offline</span></h5><span class="badge">0 Playing</span></li>
-<li class="list-group-item"><h5>Server 3: Sandbox (creative mode) <span class="label label-danger">Offline</span></h5><span class="badge">0 Playing</span></li>
+<li class="list-group-item">MWCH Servers</li>
+<a href="#" class="list-group-item" data-toggle="tooltip" data-placement="left" title="0 Users"><h5>Server 1: Public<span class="label label-danger">Offline</span></h5></a>
+<a href="#" class="list-group-item" data-toggle="tooltip" data-placement="left" title="0 Users"><h5>Server 2: VIP<span class="label label-danger">Offline</span></h5></a>
+<a href="#" class="list-group-item" data-toggle="tooltip" data-placement="left" title="0 Users"><h5>Server 3: Public Beta<span class="label label-danger">Offline</span></h5></a>
 </ul>
