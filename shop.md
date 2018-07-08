@@ -6,52 +6,7 @@ title: MWCH Shop
 <div class="alert alert-warning alert-dismissible" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <strong>Warning!</strong> The shop still in development, stay tuned.
-</div><br><br>
-
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="http://via.placeholder.com/1000x600" alt="VIP">
-  <div class="carousel-caption">
-    <h3>VIP</h3>
-    <p>Exclusive VIP Server Access.</p>
-  </div>
-    </div>
-    <div class="item">
-      <img src="http://via.placeholder.com/1000x600" alt="Supporter+">
-  <div class="carousel-caption">
-    <h3>Supporter</h3>
-    <p>Cross-Saving between Servers!</p>
-  </div>
-    </div>
-    <div class="item">
-      <img src="http://via.placeholder.com/1000x600" alt="Supporter">
-  <div class="carousel-caption">
-    <h3>Supporter+</h3>
-    <p>Get a Cute Monkey Pet.</p>
-  </div>
-    </div>
-  </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-      <span class="fas fa-chevron-left"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-      <span class="fas fa-chevron-right"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div> <br>
+</div><br>
 
 ## Ranks
 
