@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Shop
+title: MWCH Shop
 ---
 
-# Coming Soon
+### Coming Soon
+
+> stay tuned at our <a href="http://discord.gg/q2tFztR">Discord Server</a>
