@@ -9,13 +9,14 @@ title: Server Status
 </div>
 <div class="alert alert-danger" role="alert">All servers are Offline</div>
 
-<h3>Server 1: Vanilla <span class="label label-danger">Offline</span></h3>
+<h4>Server 1: Vanilla <span class="label label-danger">Offline</span></h4>
 
-<h3>Server 2: Hardcore <span class="label label-danger">Offline</span></h3>
+<h4>Server 2: Hardcore <span class="label label-danger">Offline</span></h4>
 
-<h3>Server 3: Sandbox (creative mode) <span class="label label-danger">Offline</span></h3>
+<h4>Server 3: Sandbox (creative mode) <span class="label label-danger">Offline</span></h4>
 
-<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100" style="width: 1%">
+<div class="progress">
+  <div class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
     0 Users Playing
   </div>
 </div>
