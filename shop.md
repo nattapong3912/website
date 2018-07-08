@@ -75,7 +75,6 @@ title: MWCH Shop
    </ul>
     <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Buy</button>
-  <button type="button" class="btn btn-default">Free Trial</button>
     </div>
    </div>
    </div>
@@ -99,7 +98,6 @@ title: MWCH Shop
    </ul>
     <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Buy</button>
-  <button type="button" class="btn btn-default">Free Trial</button>
     </div>
       </div>
     </div>
@@ -118,7 +116,7 @@ title: MWCH Shop
    <ul>
     <li>Get all the Abilities ready-to-use!</li>
     <li>Monthly M Gold Reward</li>
-    <li>Cross-Saving between Public Bete, Public and VIP Server</li>
+    <li>Cross-Saving between Public Beta, Public and VIP Server</li>
     <li>Dragon Mount</li>
    </ul>
     <div class="btn-group" role="group" aria-label="...">
