@@ -8,7 +8,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: http://mwch-server.feiku.gq # the base hostname & protocol for your site
 git_address: https://github.com/MWH-json/mwch-server
-git_edit_address: https://github.com/MWH-json/website
+git_edit_address: https://github.com/MWH-json/website/edit/master
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
