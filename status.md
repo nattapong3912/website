@@ -68,7 +68,7 @@ More info about Joining in [Docs - Getting Started](http://mwch-server.feiku.gq/
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-toggle="popover" title="Join Server" data-content="The server is Offline">Join</button>
+        <button type="button" class="btn btn-danger" data-toggle="popover" title="Join Server" data-content="The server is Offline">Join</button>
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@ More info about Joining in [Docs - Getting Started](http://mwch-server.feiku.gq/
         </ul>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-toggle="popover" title="Join Server" data-content="The server is Offline">Join</button>
+        <button type="button" class="btn btn-danger" data-toggle="popover" title="Join Server" data-content="The server is Offline">Join</button>
       </div>
     </div>
   </div>
