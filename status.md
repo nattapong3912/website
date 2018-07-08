@@ -15,6 +15,8 @@ title: Server Status
 <a href="#" class="list-group-item" data-toggle="modal" data-target="#server3"><h5>Server 3: Public Beta <span class="label label-danger">Offline</span></h5></a>
 </ul>
 
+More info about Joining in [Docs - Getting Started](http://mwch-server.feiku.gq/docs/home/) 
+
 <!-- Server 1 -->
 <div id="server1" class="modal fade" role="dialog">
   <div class="modal-dialog">
