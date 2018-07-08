@@ -8,4 +8,4 @@ title: MWCH Shop
   <strong>Warning!</strong> The shop still in development, stay tuned.
 </div>
 
-Coming soon.
+No Stock Available.
