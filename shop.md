@@ -3,14 +3,15 @@ layout: post
 title: MWCH Shop
 ---
 
-## How To Buy
-
-It's just One Payment! Click on the Rank you want, click Buy and then pay with PayPal!
-
 <div class="alert alert-warning alert-dismissible" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <strong>Warning!</strong> The shop still in development, stay tuned.
 </div><br>
+
+
+## How To Buy
+
+It's just One Payment! Click on the Rank you want, click Buy and then pay with PayPal!
 
 ## Ranks
 
