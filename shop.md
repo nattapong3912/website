@@ -134,14 +134,14 @@ title: MWCH Shop
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
+    <div class="panel-heading" role="tab" id="headingOneItem">
       <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOneItem" aria-expanded="true" aria-controls="collapseOneItem">
           Farming Pack
         </a>
       </h4>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+    <div id="collapseOneItem" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOneItem">
       <div class="panel-body">
         All you need to start making a farm.
     <ul>
@@ -151,20 +151,19 @@ title: MWCH Shop
    </ul>
     <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Buy</button>
-  <p>Prize: 580 M Gold</p>
     </div>
    </div>
    </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
+    <div class="panel-heading" role="tab" id="headingTwoItem">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwoItem" aria-expanded="false" aria-controls="collapseTwoItem">
           Dungeon Pack
         </a>
       </h4>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+    <div id="collapseTwoItem" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwoItem">
       <div class="panel-body">
         All you need to go to a Dungeon.
    <ul>
@@ -174,20 +173,19 @@ title: MWCH Shop
    </ul>
     <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Buy</button>
-  <p>Prize: 1800 M Gold</p>
     </div>
       </div>
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingThree">
+    <div class="panel-heading" role="tab" id="headingThreeItem">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThreeItem" aria-expanded="false" aria-controls="collapseThreeItem">
           Party Pack
         </a>
       </h4>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapseThreeItem" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThreeItem">
       <div class="panel-body">
         Make a Big Party in the Server with this Pack!
    <ul>
@@ -197,7 +195,6 @@ title: MWCH Shop
    </ul>
     <div class="btn-group" role="group" aria-label="...">
   <button type="button" class="btn btn-default">Buy</button>
-  <p>Prize: 3000 M Gold</p>
     </div>
       </div>
     </div>
