@@ -23,21 +23,21 @@ title: MWCH Shop
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="..." alt="...">
+      <img src="http://via.placeholder.com/1000x600" alt="VIP">
   <div class="carousel-caption">
     <h3>VIP</h3>
     <p>Exclusive VIP Server Access</p>
   </div>
     </div>
     <div class="item">
-      <img src="..." alt="...">
+      <img src="http://via.placeholder.com/1000x600" alt="Supporter+">
   <div class="carousel-caption">
     <h3>Supporter+</h3>
     <p>Get a cute Monkey Pet!</p>
   </div>
     </div>
     <div class="item">
-      <img src="..." alt="...">
+      <img src="http://via.placeholder.com/1000x600" alt="Supporter">
   <div class="carousel-caption">
     <h3>Supporter</h3>
     <p>Cross-saving between Servers!</p>
