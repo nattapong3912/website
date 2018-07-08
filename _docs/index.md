@@ -17,3 +17,7 @@ Join to one of our Servers:
 
 Check their availability and features at [Server Status](http://mwch-server.feiku.gq/status).
 
+## How to Join
+
+To join you need to go to **Multiplayer** and then search for the Server with the UID.
+If you wanna have it "pinned" into the Room List just favorite it by Clicking **Favorite**.
