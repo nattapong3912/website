@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Getting Started
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
