@@ -26,7 +26,14 @@ title: Server Status
         <h4 class="modal-title">MWCH Public</h4>
       </div>
       <div class="modal-body">
-        <p>The Original MWCH. Join Now!</p>
+        <p><h5>Status: <span class="label label-danger">Offline</span></h5></p>
+        <p>The Original MWCH.</p>
+        <p>Features:</p>
+        <ul>
+          <li>Big Userbase</li>
+          <li>Weekly Events</li>
+          <li>and Many More!</li>
+        </ul>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
@@ -46,7 +53,16 @@ title: Server Status
         <h4 class="modal-title">MWCH VIP</h4>
       </div>
       <div class="modal-body">
-        <p>MWCH for VIP Users. Join Now!</p>
+        <p><h5>Status: <span class="label label-danger">Offline</span></h5></p>
+        <p>MWCH for VIP Users.</p>
+        <p>Features:</p>
+        <ul>
+          <li>Special VIP Access Only</li>
+          <li>Daily Events</li>
+          <li>0% Lag</li>
+          <li>Cross-saving between server</li>
+          <li>and Many More!</li>
+        </ul>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
@@ -66,7 +82,14 @@ title: Server Status
         <h4 class="modal-title">MWCH Public Beta</h4>
       </div>
       <div class="modal-body">
-        <p>Test all the new Features while you are playing normally. Join Now!</p>
+        <p><h5>Status: <span class="label label-danger">Offline</span></h5></p>
+        <p>Test all the new Features while you are playing normally.</p>
+        <p>Features:</p>
+        <ul>
+          <li>Brand New Features</li>
+          <li>0% Lag</li>
+          <li>and Many More!</li>
+        </ul>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default disabled" data-dismiss="modal">Join</button>
