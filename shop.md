@@ -6,7 +6,7 @@ title: MWCH Shop
 <div class="alert alert-warning alert-dismissible" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <strong>Warning!</strong> The shop still in development, stay tuned.
-</div><br><br>
+</div><br>
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -29,14 +29,14 @@ title: MWCH Shop
     <div class="item">
       <img src="http://via.placeholder.com/1000x600" alt="Supporter+">
   <div class="carousel-caption">
-    <h3>Supporter+</h3>
+    <h3>Supporter</h3>
     <p>Cross-Saving between Servers!</p>
   </div>
     </div>
     <div class="item">
       <img src="http://via.placeholder.com/1000x600" alt="Supporter">
   <div class="carousel-caption">
-    <h3>Supporter</h3>
+    <h3>Supporter+</h3>
     <p>Get a Cute Monkey Pet.</p>
   </div>
     </div>
@@ -51,8 +51,9 @@ title: MWCH Shop
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> <br>
 
+## Ranks
 
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">
