@@ -6,10 +6,7 @@ title: MWCH Shop
 <div class="alert alert-warning alert-dismissible" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <strong>Warning!</strong> The shop still in development, stay tuned.
-</div>
-
-
-
+</div><br><br>
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -26,24 +23,23 @@ title: MWCH Shop
       <img src="http://via.placeholder.com/1000x600" alt="VIP">
   <div class="carousel-caption">
     <h3>VIP</h3>
-    <p>Exclusive VIP Server Access</p>
+    <p>Exclusive VIP Server Access.</p>
   </div>
     </div>
     <div class="item">
       <img src="http://via.placeholder.com/1000x600" alt="Supporter+">
   <div class="carousel-caption">
     <h3>Supporter+</h3>
-    <p>Get a cute Monkey Pet!</p>
+    <p>Cross-Saving between Servers!</p>
   </div>
     </div>
     <div class="item">
       <img src="http://via.placeholder.com/1000x600" alt="Supporter">
   <div class="carousel-caption">
     <h3>Supporter</h3>
-    <p>Cross-saving between Servers!</p>
+    <p>Get a Cute Monkey Pet.</p>
   </div>
     </div>
-    Ranks Showcase
   </div>
 
   <!-- Controls -->
