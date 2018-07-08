@@ -1,10 +1,10 @@
 ---
-title: Getting Started
+title: Docs - Getting Started
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+## Getting Started
 
 Join to one of our Servers:
 
