@@ -1,5 +1,5 @@
 ---
-title: Docs - Item Snippets and Examples
+title: Item Snippets and Examples
 permalink: /docs/items/
 ---
 
