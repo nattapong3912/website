@@ -1,5 +1,5 @@
 ---
-title: Docs - Editing
+title: Editing
 permalink: /docs/editing/
 ---
 
