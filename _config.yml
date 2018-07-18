@@ -22,6 +22,8 @@ gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
 
 exclude:
   - Gemfile
