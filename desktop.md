@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Desktop MWCH Launcher
+title:  
 ---
 
 <div class="text-center">
