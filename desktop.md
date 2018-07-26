@@ -3,7 +3,9 @@ layout: page
 title:  Desktop MWCH Launcher
 ---
 
-Thanks for using MWCH Launcher!
+<div class="text-center">
+<h2>Thanks for using MWCH Launcher!</h2>
 
-test
-null =null
+<h2>Welcome to the Mini World Revolution.</h2>
+
+</div>
